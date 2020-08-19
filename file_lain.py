@@ -11,4 +11,3 @@ print(f'hitung_luas_segitiga {hitung_luas_segitiga(10, 3)}')
 
 print(info_persegi_panjang())
 print(f'hitung_luas_persegi_panjang {hitung_luas_persegi_panjang(10, 3)}')
-
